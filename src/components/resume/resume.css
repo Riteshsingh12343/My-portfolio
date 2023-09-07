@@ -49,4 +49,5 @@
 
 .timeline__title {
     font-size: var(--h3-font-size);
+    margin: 0.5rem 0;
 }
