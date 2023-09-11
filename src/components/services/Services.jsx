@@ -9,16 +9,16 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "JavaScript",
+    title: "UI / UX ",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      " Creating a positive user experience when interacting with digital products and applications.",
   },
   {
     id: 2,
     image: Image2,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Front-end  and Back-end  Developer ",
   },
   {
     id: 3,

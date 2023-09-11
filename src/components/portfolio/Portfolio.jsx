@@ -31,10 +31,10 @@ const Portfolio = () => {
           onClick={() => filterItem("Design")}>
           Design
         </span>
-        <span className="work__item"
+        {/* <span className="work__item"
           onClick={() => filterItem("Branding")}>
           Branding
-        </span>
+        </span> */}
       </div>
 
       <div className="work__container grid">

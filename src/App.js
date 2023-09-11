@@ -6,7 +6,7 @@ import About from './components/about/About';
 import Resume from './components/resume/Resume';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
-import Pricing from './components/pricing/Pricing';
+// import Pricing from './components/pricing/Pricing';
 import Testimonials from './components/testimonials/Testimonials';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
@@ -20,7 +20,7 @@ const App = () => {
         <Services />
         <Resume />
         <Portfolio />
-        <Pricing />
+        {/* <Pricing /> */}
         <Testimonials />
         <Blog />
         <Contact />
