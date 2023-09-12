@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import './contact.css';
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Contact = () => {
   const [user, setUser] = useState({
@@ -25,10 +27,11 @@ const Contact = () => {
   const postData = async (e) => {
     e.preventDefault();
 
-    if (!validateForm()) {
-      alert('Please Fill All Data Carefully');
-      return;
-    }
+    if (validateForm()) {
+      toast.success('Thank You ' ) 
+    }else  {
+      toast.error('Please fill all data carefully');
+   }
 
     const { name, email, text, message } = user;
 
@@ -53,13 +56,14 @@ const Contact = () => {
         message: '',
       });
 
-      alert('Data Stored Successfully');
-    } else {
-      alert('Error storing data. Please try again.');
-    }
+      toast.success ("your data is submited" )
+    }else{
+      toast.error('Error storing data. Please try again.');
+    } 
   };
 
   return (
+   
     <section className="contact container section" id="contact">
       <h2 className="section__title">Get In Touch</h2>
 
@@ -79,7 +83,7 @@ const Contact = () => {
                 placeholder="Insert your name"
                 value={user.name}
                 onChange={getUserData}
-                required
+                // required
               />
             </div>
 
@@ -91,7 +95,7 @@ const Contact = () => {
                 placeholder="Insert your email"
                 value={user.email}
                 onChange={getUserData}
-                required
+                // required
               />
             </div>
           </div>
@@ -115,7 +119,7 @@ const Contact = () => {
               placeholder="Write your message"
               value={user.message}
               onChange={getUserData}
-              required
+              // required
             ></textarea>
           </div>
 

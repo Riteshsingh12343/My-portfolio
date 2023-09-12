@@ -7,9 +7,10 @@ import Resume from './components/resume/Resume';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
 // import Pricing from './components/pricing/Pricing';
-import Testimonials from './components/testimonials/Testimonials';
+// import Testimonials from './components/testimonials/Testimonials';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
+import { ToastContainer } from 'react-toastify';
 const App = () => {
   return (
     <>
@@ -21,9 +22,11 @@ const App = () => {
         <Resume />
         <Portfolio />
         {/* <Pricing /> */}
-        <Testimonials />
+        {/* <Testimonials /> */}
+        <ToastContainer />
         <Blog />
         <Contact />
+        
       </main>
     </>
   )
