@@ -1,31 +1,34 @@
 import React from 'react';
 import "./services.css";
+
 import Image1 from "../../assets/service-1.svg";
 import Image2 from "../../assets/service-2.svg";
 import Image3 from "../../assets/service-3.svg";
 
 
 const data = [
+
   {
+
     id: 1,
     image: Image1,
-    title: "UI / UX ",
-    description:
-      " Creating a positive user experience when interacting with digital products and applications.",
+    title: "Web Design",
+    // description:
+    //   " Creating a positive user experience when interacting with digital products and applications.",
   },
   {
     id: 2,
     image: Image2,
-    title: "Web Development",
-    description:
-      "Front-end  and Back-end  Developer ",
+    title: "Web Developer",
+    // description:
+    //   "Front-end  and Back-end  Developer. ",
   },
   {
     id: 3,
-    image: Image3,
-    title: " ",
-    description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.",
+    image: Image3 ,
+    title: " App Developing ",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.",
   },
 ];
 

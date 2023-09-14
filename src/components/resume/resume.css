@@ -4,7 +4,7 @@
 }
 
 .timeline {
-  background-color: var(--container-color);
+  background-color: rgb(66, 67, 64);
   padding: 1.875rem;
   border-radius: var(--border-radius);
   position: relative;
@@ -16,7 +16,9 @@
   padding-left: 3.125rem;
   padding-bottom: 3.125rem;
 }
-
+.timeline__text{
+  color: #c8c7d0;
+}
 .timeline__item:last-child {
   padding-bottom: 0;
 }
@@ -38,12 +40,12 @@
   top: 0;
   font-size: var(--h2-font-size);
   color: var(--first-color);
-  background-color: var(--container-color);
+  background-color:rgb(66, 67, 64) ;
   padding: 0.4375rem 0;
 }
 
 .timeline__date{
-    color: #8b88b1;
+    color: #c8c7d0;
     font-size: var(--small-font-size);
 }
 
@@ -51,6 +53,8 @@
     font-size: var(--h3-font-size);
     margin: 0.5rem 0;
 }
+
+
 
 @media screen and (max-width: 1024px) {
   .resume__container{

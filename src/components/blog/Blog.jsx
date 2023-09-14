@@ -20,9 +20,9 @@ const Blog = () => {
           <div className="blog__details">
             <h3 className="blog__title">5 Best App Development Tool for Your Projects </h3>
               <div className="blog__meta">
-                <span>09 February, 2022</span>
+                <span>09 Septamber, 2023</span>
                 <span className="blog__dot">.</span>
-                <span>Boldy</span>
+                
               </div>
            
           </div>
@@ -41,9 +41,9 @@ const Blog = () => {
           <div className="blog__details">
             <h3 className="blog__title"> Common Misconceptions About Payment    </h3>
               <div className="blog__meta">
-                <span>07 February, 2022</span>
+                <span>25 , August 2023</span>
                 <span className="blog__dot">.</span>
-                <span>Boldy</span>
+                
               </div>
          
           </div>
@@ -62,9 +62,9 @@ const Blog = () => {
           <div className="blog__details">
             <h3 className="blog__title">3 Things to know about startup business </h3>
               <div className="blog__meta">
-                <span> 05 February, 2022</span>
+                <span> 13 September, 2023</span>
                 <span className="blog__dot">.</span>
-                <span>Boldy</span>
+             
               </div>
             
           </div>

@@ -9,9 +9,9 @@
     /* ==============colors =============== */
     /* color mode HSL (hue , staturation , lightness */
     --first-color : hsl(353, 100% ,65%);
-    --title-color: hsl(244, 24%, 26%);
-    --text-color: hsl(244, 16%, 43%);
-    --body-color: hsl(186, 25%, 78%);
+    --title-color: hsl(0, 0%, 100%);
+    --text-color: hsl(240, 3%, 30%);
+    --body-color: hsl(0, 0%, 0%);
     --container-color: #fff;
 
         /* ============== Font any Typography  =============== */

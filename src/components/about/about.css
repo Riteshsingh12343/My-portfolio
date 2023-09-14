@@ -3,6 +3,14 @@
     column-gap: 1.875rem;
 }
 
+
+.about__img{
+    width: 190px; /* Adjust the width and height to your desired size */
+    height: 190px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 .about__data{
 padding: 1.875rem;
 background-color: var(--container-color);

@@ -1,7 +1,9 @@
 .contact.section {
     padding-bottom: 6.25rem;
 }
-
+.contact__details {
+    color: #716f6f;
+}
 .contact__container {
     grid-template-columns: 4fr 8fr;
     column-gap: 1.875rem;

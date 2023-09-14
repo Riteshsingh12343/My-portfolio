@@ -4,7 +4,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2023 - Appearing",
-      title: "BCA",
+      title: "Bachelor of Computer Application ",
       desc: "A S College Deoghar",
     },
     {

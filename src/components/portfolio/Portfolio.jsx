@@ -25,7 +25,7 @@ const Portfolio = () => {
         </span>
         <span className="work__item"
           onClick={() => filterItem("Art")}>
-          Art
+          Blog
         </span>
         <span className="work__item"
           onClick={() => filterItem("Design")}>

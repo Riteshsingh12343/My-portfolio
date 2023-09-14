@@ -30,7 +30,7 @@
 }
 
 .work__mask {
-    background: #6060e5;
+    background: #d8e73b;
     position: absolute;
     left: 0 ;
     top: 0;
@@ -77,7 +77,7 @@
     left: 1.5rem;
     font-size: var(--h3-font-size);
     display: block;
-    background-color: #ffd15c;
+    background-color: #111111;
     height: 40px;
     width: 40px;
     cursor: pointer;
