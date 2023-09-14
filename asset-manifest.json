@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.f58265d7.css",
+    "main.js": "/My-portfolio/static/js/main.15e8f1a9.js",
+    "static/media/blog-2.svg": "/My-portfolio/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
+    "static/media/pic-modified.png": "/My-portfolio/static/media/pic-modified.f11ad319effe7ec6c63f.png",
+    "static/media/blog-1.svg": "/My-portfolio/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/work-4.svg": "/My-portfolio/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/blog-3.svg": "/My-portfolio/static/media/blog-3.2b3b19d1ca3209f976198c3fd2418e16.svg",
+    "static/media/work-3.svg": "/My-portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/My-portfolio/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/work-6.svg": "/My-portfolio/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/My-portfolio/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/work-2.svg": "/My-portfolio/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/service-2.svg": "/My-portfolio/static/media/service-2.f2457016e4c3e7acf450c8e4b24eea7d.svg",
+    "static/media/dots-bg.svg": "/My-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/service-3.svg": "/My-portfolio/static/media/service-3.e97d4789996b4642a02796603a407695.svg",
+    "index.html": "/My-portfolio/index.html",
+    "static/media/service-1.svg": "/My-portfolio/static/media/service-1.fb302bd84d7e0ae7e5d77d385607983f.svg",
+    "static/media/revain.svg": "/My-portfolio/static/media/revain.7b7bbc52ce82105f2411aa7e54e9ba7e.svg",
+    "main.f58265d7.css.map": "/My-portfolio/static/css/main.f58265d7.css.map",
+    "main.15e8f1a9.js.map": "/My-portfolio/static/js/main.15e8f1a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58265d7.css",
+    "static/js/main.15e8f1a9.js"
+  ]
+}
