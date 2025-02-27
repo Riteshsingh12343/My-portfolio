@@ -13,16 +13,17 @@ const About =()=> {
 
             <div className="about__data grid">
                 <div className="about__info">
-                    <p className="about__description">Passionate About Web Development Goal is To Achieve A Good Position
-By Doing Satisfying Work in The It Field, Strongly Focused To Complete The
-Task In Fast-faced Environment</p>
+                    <p className="about__description">To secure a challenging position in the field of data analysis and technology, where I can leverage my technical 
+skills in Python, SQL, Power BI, and Excel to analyze complex datasets, derive actionable insights, and contribute 
+to data-driven decision-making. I aim to grow as a professional by continuously learning and applying new 
+technologies to solve real-world problems.</p>
                     <a href="" className="btn">Download CV</a>
                 </div>
                 
                     <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
-                                <h3 className="skills__name">Development</h3>
+                                <h3 className="skills__name">MySql</h3>
                                 <span className="skills__number  ">90%</span>
                             </div>
                             <div className="skills__bar">
@@ -32,8 +33,8 @@ Task In Fast-faced Environment</p>
 
                         <div className="skills__data">
                             <div className="skills__titles">
-                                <h3 className="skills__name">Java</h3>
-                                <span className="skills__number">50%</span>
+                                <h3 className="skills__name">Python</h3>
+                                <span className="skills__number">80%</span>
                             </div>
                             <div className="skills__bar">
                                 <span className="skills__percentage ui__design"></span>
@@ -42,7 +43,7 @@ Task In Fast-faced Environment</p>
 
                         <div className="skills__data">
                             <div className="skills__titles">
-                                <h3 className="skills__name"> JavaScript</h3>
+                                <h3 className="skills__name"> Power BI </h3>
                                 <span className="skills__number">60%</span>
                             </div>
                             <div className="skills__bar">
